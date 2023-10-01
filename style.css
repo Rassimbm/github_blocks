@@ -1,0 +1,20 @@
+.container {
+    width: 950px;
+    background-color: tomato;
+    margin: 0px auto;
+    overflow: hidden;
+    height: auto;
+}
+
+img {
+    width: 200px;
+    margin: 20px;
+}
+
+.row {
+    background-color: blueviolet;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
